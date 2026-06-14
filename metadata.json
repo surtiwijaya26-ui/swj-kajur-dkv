@@ -1,0 +1,6 @@
+{
+  "name": "PKL DKV Administrator pak SW - SMKN 14 Kab. Tangerang",
+  "description": "Aplikasi manajemen, import massal, generate PDF surat (Pengantar, Biodata, BYOD), email HRD otomatis, dan generator Google Apps Script untuk PKL Desain Komunikasi Visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
